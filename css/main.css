@@ -8,9 +8,37 @@ table {
 
 td {
   border: 1px solid #ccc;
-  height: 6em;
+  height: 7.8em;
 }
 
 th {
   border: 1px solid #ccc;
+}
+
+.grey {
+  border: 1px solid #666;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  color: #333;
+}
+
+.red {
+  border: 1px solid #b92828;
+  color: #991919;
+  border-radius: 8px;
+  background-color: #f2bcbc;
+}
+
+.green {
+  border: 1px solid #6b7e54;
+  color: #51603f;
+  border-radius: 8px;
+  background-color: #d1e0bf;
+}
+
+.blue {
+  border: 1px solid #1d38da;
+  color: #38448e;
+  border-radius: 8px;
+  background-color: #d2d6f0;
 }
